@@ -1,0 +1,8 @@
+# Environmental variables file
+.env
+
+# Logs
+logs
+
+# Dependency directorys
+node_modules
